@@ -1,0 +1,12 @@
+[Unit]
+Description=Lock the screen on resume from suspend
+
+[Service]
+User=tom
+Type=forking
+Environment=DISPLAY=:0
+ExecStart=/home/tom/.config/lockscreen/lock
+
+[Install]
+WantedBy=sleep.target suspend.target
+Before=sleep.traget suspend.target

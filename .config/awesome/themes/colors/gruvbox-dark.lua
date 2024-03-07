@@ -1,0 +1,40 @@
+local colors = {}
+
+colors.light_black = "#282828"
+colors.black = "#1d2021"
+colors.deep_black = "#1b1923"
+colors.white = "#EBDBB2"
+colors.light_white = "#fafafa"
+colors.pink = "#D3869B"
+colors.red = "#FB4934"
+colors.orange = "#D79921"
+colors.yellow = "#FABD2F"
+colors.green = "#B8BB26"
+colors.blue = "#83A598"
+colors.purple = "#D3869B"
+colors.grey = "#EBDBB2"
+colors.transparent = "#00000000"
+colors.fg_normal = colors.white
+colors.fg_focus = colors.orange
+colors.fg_urgent = colors.red
+colors.fg_minimize = colors.light_white
+colors.bg_normal = colors.black
+colors.bg_focus = colors.black
+colors.bg_urgent = colors.white
+colors.bg_minimize = colors.grey
+colors.bg_systray = colors.transparent
+colors.taglist_bg_focus = colors.transparent
+colors.taglist_fg_focus = colors.yellow
+colors.tasklist_fg_focus = colors.white
+colors.border_normal = colors.transparent
+colors.border_focus = colors.green
+colors.border_marked = colors.purple
+colors.titlebar_bg_focus = colors.bg_focus
+colors.titlebar_bg_normal = colors.bg_normal
+colors.titlebar_fg_focus = colors.fg_focus
+colors.notification_bg = colors.bg_normal
+colors.notification_fg = colors.fg_normal
+colors.notification_border_width = colors.border_width
+colors.notification_border_color = colors.blue
+
+return colors
