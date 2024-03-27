@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/wallpaper-main/ffarjkok2s9b1.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0a111a",
+        "foreground": "#c6e3ed",
+        "cursor": "#c6e3ed"
+    },
+    "colors": {
+        "color0": "#0a111a",
+        "color1": "#2D698F",
+        "color2": "#507095",
+        "color3": "#966F85",
+        "color4": "#4C99BA",
+        "color5": "#61ACCC",
+        "color6": "#ABA1B2",
+        "color7": "#c6e3ed",
+        "color8": "#8a9ea5",
+        "color9": "#2D698F",
+        "color10": "#507095",
+        "color11": "#966F85",
+        "color12": "#4C99BA",
+        "color13": "#61ACCC",
+        "color14": "#ABA1B2",
+        "color15": "#c6e3ed"
+    }
+}

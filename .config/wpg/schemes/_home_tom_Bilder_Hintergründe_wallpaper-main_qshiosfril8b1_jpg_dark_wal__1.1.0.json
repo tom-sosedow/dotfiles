@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/wallpaper-main/qshiosfril8b1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0d0e",
+        "foreground": "#a2c1ce",
+        "cursor": "#a2c1ce"
+    },
+    "colors": {
+        "color0": "#0a0d0e",
+        "color1": "#204B61",
+        "color2": "#956A38",
+        "color3": "#C49D5C",
+        "color4": "#2E718F",
+        "color5": "#447C96",
+        "color6": "#5593AD",
+        "color7": "#a2c1ce",
+        "color8": "#718790",
+        "color9": "#204B61",
+        "color10": "#956A38",
+        "color11": "#C49D5C",
+        "color12": "#2E718F",
+        "color13": "#447C96",
+        "color14": "#5593AD",
+        "color15": "#a2c1ce"
+    }
+}

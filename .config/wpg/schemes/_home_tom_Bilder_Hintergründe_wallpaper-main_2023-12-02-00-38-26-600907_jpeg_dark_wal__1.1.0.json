@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/wallpaper-main/2023-12-02-00-38-26-600907.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#100f10",
+        "foreground": "#96a9c3",
+        "cursor": "#96a9c3"
+    },
+    "colors": {
+        "color0": "#100f10",
+        "color1": "#404452",
+        "color2": "#6C4E49",
+        "color3": "#5C5D69",
+        "color4": "#9C614F",
+        "color5": "#AD6347",
+        "color6": "#CC925E",
+        "color7": "#96a9c3",
+        "color8": "#697688",
+        "color9": "#404452",
+        "color10": "#6C4E49",
+        "color11": "#5C5D69",
+        "color12": "#9C614F",
+        "color13": "#AD6347",
+        "color14": "#CC925E",
+        "color15": "#96a9c3"
+    }
+}

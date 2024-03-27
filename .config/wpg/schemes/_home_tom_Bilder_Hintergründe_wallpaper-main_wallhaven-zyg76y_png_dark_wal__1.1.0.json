@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/wallpaper-main/wallhaven-zyg76y.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0D1D1C",
+        "foreground": "#e1eeed",
+        "cursor": "#e1eeed"
+    },
+    "colors": {
+        "color0": "#0D1D1C",
+        "color1": "#D9B940",
+        "color2": "#3977A9",
+        "color3": "#B5BFAB",
+        "color4": "#AFD4DC",
+        "color5": "#DBE9D7",
+        "color6": "#D4EAD8",
+        "color7": "#e1eeed",
+        "color8": "#9da6a5",
+        "color9": "#D9B940",
+        "color10": "#3977A9",
+        "color11": "#B5BFAB",
+        "color12": "#AFD4DC",
+        "color13": "#DBE9D7",
+        "color14": "#D4EAD8",
+        "color15": "#e1eeed"
+    }
+}

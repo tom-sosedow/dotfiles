@@ -15,8 +15,8 @@ local function get_theme(base_theme)
     theme.status_border_radius                      = 0
     theme.border_width                              = 1
     theme.systray_icon_spacing                      = 12
-    theme.font                                      = "mononoki Nerd Font 12"
-    theme.taglist_font                              = "mononoki Nerd Font 12"
+    theme.font                                      = "Mononoki Nerd Font 12"
+    theme.taglist_font                              = "Mononoki Nerd Font 12"
     theme.menu_height                               = 20
     theme.menu_width                                = 140
     
@@ -266,10 +266,12 @@ local function get_theme(base_theme)
         )
     
         local systray = wibox.widget.systray()
-        local spr = wibox.widget.textbox(" | ")
         local spacing_width = 10
         local spacer = wibox.container.margin(wibox.widget.textbox(""), spacing_width, 0)
-    
+        local widget_bar = require("themes.onebar-top.widgets")(theme)
+        table.insert(widget_bar, 1, spacer)
+        table.insert(widget_bar, 1, wibox.container.place(systray, "center", "center"))
+        table.insert(widget_bar, s.mylayoutbox)
         s.mywibox:setup {
             layout = wibox.layout.align.horizontal,
             {
@@ -298,26 +300,8 @@ local function get_theme(base_theme)
                 },
             },
             wibox.widget{},
-            {
-                layout = wibox.layout.fixed.horizontal,
-                spacer,
-                wibox.container.place(wibox.widget { systray, layout = wibox.layout.align.horizontal }, "center", "center"),
-                spacer,
-                wibox.container.margin(wibox.widget { volicon, theme.volume.widget, layout = wibox.layout.align.horizontal }, 3, 3, 4, 4),
-                spacer,
-                wibox.container.margin(wibox.widget { memicon, mem.widget, layout = wibox.layout.align.horizontal }, 3, 3, 4, 4),
-                spacer,
-                wibox.container.margin(wibox.widget { cpuicon, cpu.widget, layout = wibox.layout.align.horizontal }, 3, 3, 4, 4),
-                spacer,
-                wibox.container.margin(wibox.widget { baticon, bat.widget, layout = wibox.layout.align.horizontal }, 3, 3, 4, 4),
-                spacer,
-                wibox.container.margin(wibox.widget { clockicon, wibox.container.margin(clock, 2, 0), layout = wibox.layout.align.horizontal }, 3, 3, 4, 4),
-                spacer,
-                s.mylayoutbox,
-                spacer
-            },
+            widget_bar,
         }
-        
     end
     return theme
 end

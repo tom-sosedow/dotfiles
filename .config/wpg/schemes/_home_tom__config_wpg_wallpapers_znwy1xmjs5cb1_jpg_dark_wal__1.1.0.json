@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tom/.config/wpg/wallpapers/znwy1xmjs5cb1.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#150340",
+        "foreground": "#edc5ee",
+        "cursor": "#edc5ee"
+    },
+    "colors": {
+        "color0": "#150340",
+        "color1": "#DB40A7",
+        "color2": "#A01DD7",
+        "color3": "#DD1EE8",
+        "color4": "#A05BEA",
+        "color5": "#E060EA",
+        "color6": "#469BDB",
+        "color7": "#edc5ee",
+        "color8": "#a589a6",
+        "color9": "#DB40A7",
+        "color10": "#A01DD7",
+        "color11": "#DD1EE8",
+        "color12": "#A05BEA",
+        "color13": "#E060EA",
+        "color14": "#469BDB",
+        "color15": "#edc5ee"
+    }
+}

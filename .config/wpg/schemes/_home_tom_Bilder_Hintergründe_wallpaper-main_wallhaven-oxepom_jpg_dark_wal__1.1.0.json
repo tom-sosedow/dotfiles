@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/wallpaper-main/wallhaven-oxepom.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#23211f",
+        "foreground": "#d2dbdb",
+        "cursor": "#d2dbdb"
+    },
+    "colors": {
+        "color0": "#23211f",
+        "color1": "#778D8B",
+        "color2": "#8B9D97",
+        "color3": "#96AAAB",
+        "color4": "#A9B8B1",
+        "color5": "#B5C4BA",
+        "color6": "#A6BCC3",
+        "color7": "#d2dbdb",
+        "color8": "#939999",
+        "color9": "#778D8B",
+        "color10": "#8B9D97",
+        "color11": "#96AAAB",
+        "color12": "#A9B8B1",
+        "color13": "#B5C4BA",
+        "color14": "#A6BCC3",
+        "color15": "#d2dbdb"
+    }
+}

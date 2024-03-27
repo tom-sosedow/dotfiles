@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/wallpaper-main/wallhaven-l8q1vp.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#130f12",
+        "foreground": "#e9e3e1",
+        "cursor": "#e9e3e1"
+    },
+    "colors": {
+        "color0": "#130f12",
+        "color1": "#9C9899",
+        "color2": "#B3AFAF",
+        "color3": "#C7B6B2",
+        "color4": "#BEC1BE",
+        "color5": "#B3C6CA",
+        "color6": "#D3D1D0",
+        "color7": "#e9e3e1",
+        "color8": "#a39e9d",
+        "color9": "#9C9899",
+        "color10": "#B3AFAF",
+        "color11": "#C7B6B2",
+        "color12": "#BEC1BE",
+        "color13": "#B3C6CA",
+        "color14": "#D3D1D0",
+        "color15": "#e9e3e1"
+    }
+}

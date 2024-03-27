@@ -8,9 +8,7 @@ local naughty = require("naughty")
 local menubar = require("menubar")
 local hotkeys_popup = require("awful.hotkeys_popup")
 local lain          = require("lain")
-local freedesktop   = require("freedesktop")
 require("awful.hotkeys_popup.keys")
-
 
 if awesome.startup_errors then
     naughty.notify({ 
@@ -65,20 +63,20 @@ local layouts = {
         get_layout = require("themes.onebar-top.theme")
     }
 }
-local chosen_color = colors.xresources
-local chosen_layout = layouts.onebar_top
+local chosen_color = colors.gruvbox_dark
+local chosen_layout = layouts.separated
 
 local theme = chosen_layout.get_layout(chosen_color.theme)
 beautiful.init(theme)
 
 modkey = "Mod4"
 -- This is used later as the default programs to run
-terminal = "alacritty"
+terminal = "kitty"
 browser = "firefox"
 file_manager = "nemo"
-editor = "code"
+editor = "codium"
 discord = "discord"
-spotify = "spotify"
+spotify = "spotify-launcher"
 
 -- Table of layouts to cover with awful.layout.inc, order matters.
 awful.layout.layouts = {
@@ -227,13 +225,13 @@ globalkeys = gears.table.join(
         function (c) awful.spawn("flatpak run it.mijorus.smile") end ,
         {description = "run emoji picker", group = "launcher"}),
     --my keys
-    awful.key({ }, "XF86MonBrightnessDown", function () awful.spawn("xbacklight -dec 5.0") end,
+    awful.key({ }, "XF86MonBrightnessDown", function () awful.spawn("blight -5%") end,
         {description = "brightness down", group = "media keys"}),
-    awful.key({ }, "XF86MonBrightnessUp", function () awful.spawn("xbacklight -inc 5.0") end,
+    awful.key({ }, "XF86MonBrightnessUp", function () awful.spawn("blight +5%") end,
         {description = "brightness up", group = "media keys"}),
-    awful.key({ }, "XF86AudioLowerVolume", function () awful.spawn("amixer -q sset Master 2%-") end,
+    awful.key({ }, "XF86AudioLowerVolume", function () awful.spawn("wpctl set-volume @DEFAULT_AUDIO_SINK@ 5%-") end,
         {description = "volume down", group = "media keys"}),
-    awful.key({ }, "XF86AudioRaiseVolume", function () awful.spawn("amixer -q sset Master 2%+") end,
+    awful.key({ }, "XF86AudioRaiseVolume", function () awful.spawn("wpctl set-volume @DEFAULT_AUDIO_SINK@ 5%+") end,
         {description = "volume up", group = "media keys"}),
     awful.key({ }, "XF86AudioMute", function () awful.spawn("amixer -D pulse set Master 1+ toggle") end, {description = "toggle mute", group = "media keys"}),
     awful.key({ }, "Print", function () awful.spawn("flameshot gui") end, {description = "screenshot", group = "media keys"}),
@@ -500,12 +498,18 @@ awful.spawn.easy_async_with_shell("autorandr --change", function()
     --awful.spawn.with_shell("nitrogen --head=0 --set-zoom-fill --random ~/Bilder/Hintergründe/favorites")
     --awful.spawn.with_shell("nitrogen --head=1 --set-zoom-fill --random ~/Bilder/Hintergründe/favorites")
 --restore old wallpaper
-    --awful.spawn.with_shell("nitrogen --restore")
-    awful.spawn.with_shell("wal -R")
-    awful.spawn.with_shell("~/.fehbg")
+    awful.spawn.with_shell("nitrogen --restore")
+    --awful.spawn.with_shell("~/.fehbg")
 end)
+awful.spawn.with_shell("wal -R")
+awful.spawn.with_shell("xrdb merge ~/.Xcursor")
+-- awful.spawn.with_shell("exec --no-startup-id /usr/lib/pam_kwallet_init")
 awful.spawn.with_shell("xinput set-prop 'Elan Touchpad' 'libinput Natural Scrolling Enabled' 1")
 awful.spawn.with_shell("xinput set-prop 'Elan Touchpad' 'libinput Tapping Enabled' 1")
-awful.spawn.with_shell("nm-applet")
 awful.spawn.with_shell("blueman-applet")
 awful.spawn.with_shell("flameshot")
+awful.spawn.with_shell("picom")
+awful.spawn.with_shell("/usr/bin/gnome-keyring-daemon --start --components=pkcs11")
+awful.spawn.with_shell("/usr/bin/gnome-keyring-daemon --start --components=secrets")
+awful.spawn.with_shell("/usr/bin/gnome-keyring-daemon --start --components=ssh")
+awful.spawn.with_shell("nm-applet")

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/wallpaper-main/jabnltuxhs7b1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090706",
+        "foreground": "#f2e9de",
+        "cursor": "#f2e9de"
+    },
+    "colors": {
+        "color0": "#090706",
+        "color1": "#675653",
+        "color2": "#A15629",
+        "color3": "#8F7166",
+        "color4": "#A68B6F",
+        "color5": "#707286",
+        "color6": "#C8A99E",
+        "color7": "#f2e9de",
+        "color8": "#a9a39b",
+        "color9": "#675653",
+        "color10": "#A15629",
+        "color11": "#8F7166",
+        "color12": "#A68B6F",
+        "color13": "#707286",
+        "color14": "#C8A99E",
+        "color15": "#f2e9de"
+    }
+}

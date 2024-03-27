@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/wallpaper-main/wallhaven-p93qd3.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0A0C16",
+        "foreground": "#e2eaf5",
+        "cursor": "#e2eaf5"
+    },
+    "colors": {
+        "color0": "#0A0C16",
+        "color1": "#555D69",
+        "color2": "#5F7189",
+        "color3": "#85898B",
+        "color4": "#9FA6AB",
+        "color5": "#A9D0FA",
+        "color6": "#CBDAEC",
+        "color7": "#e2eaf5",
+        "color8": "#9ea3ab",
+        "color9": "#555D69",
+        "color10": "#5F7189",
+        "color11": "#85898B",
+        "color12": "#9FA6AB",
+        "color13": "#A9D0FA",
+        "color14": "#CBDAEC",
+        "color15": "#e2eaf5"
+    }
+}

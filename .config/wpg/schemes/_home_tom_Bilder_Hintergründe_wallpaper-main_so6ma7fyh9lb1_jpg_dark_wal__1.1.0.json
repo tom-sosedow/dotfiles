@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/wallpaper-main/so6ma7fyh9lb1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#071219",
+        "foreground": "#d5a1a3",
+        "cursor": "#d5a1a3"
+    },
+    "colors": {
+        "color0": "#071219",
+        "color1": "#5D3243",
+        "color2": "#574956",
+        "color3": "#951939",
+        "color4": "#92303E",
+        "color5": "#A5303E",
+        "color6": "#9C3141",
+        "color7": "#d5a1a3",
+        "color8": "#957072",
+        "color9": "#5D3243",
+        "color10": "#574956",
+        "color11": "#951939",
+        "color12": "#92303E",
+        "color13": "#A5303E",
+        "color14": "#9C3141",
+        "color15": "#d5a1a3"
+    }
+}

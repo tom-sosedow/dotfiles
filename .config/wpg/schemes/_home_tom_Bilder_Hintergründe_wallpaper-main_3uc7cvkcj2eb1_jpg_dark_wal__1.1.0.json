@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/wallpaper-main/3uc7cvkcj2eb1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#120b11",
+        "foreground": "#ddd9e2",
+        "cursor": "#ddd9e2"
+    },
+    "colors": {
+        "color0": "#120b11",
+        "color1": "#FAA45E",
+        "color2": "#F0BF5C",
+        "color3": "#755D87",
+        "color4": "#9F6C8C",
+        "color5": "#C0AECB",
+        "color6": "#C9BADA",
+        "color7": "#ddd9e2",
+        "color8": "#9a979e",
+        "color9": "#FAA45E",
+        "color10": "#F0BF5C",
+        "color11": "#755D87",
+        "color12": "#9F6C8C",
+        "color13": "#C0AECB",
+        "color14": "#C9BADA",
+        "color15": "#ddd9e2"
+    }
+}

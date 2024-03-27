@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/wallpaper-main/vye0npvlgqeb1.jpg",
+    "alpha": "60",
+    "special": {
+        "background": "#0E0517",
+        "foreground": "#abc3f1",
+        "cursor": "#abc3f1"
+    },
+    "colors": {
+        "color0": "#0E0517",
+        "color1": "#281698",
+        "color2": "#5E19A8",
+        "color3": "#6728D1",
+        "color4": "#524FD8",
+        "color5": "#9A29D7",
+        "color6": "#C041D1",
+        "color7": "#abc3f1",
+        "color8": "#7788a8",
+        "color9": "#281698",
+        "color10": "#5E19A8",
+        "color11": "#6728D1",
+        "color12": "#524FD8",
+        "color13": "#9A29D7",
+        "color14": "#C041D1",
+        "color15": "#abc3f1"
+    }
+}

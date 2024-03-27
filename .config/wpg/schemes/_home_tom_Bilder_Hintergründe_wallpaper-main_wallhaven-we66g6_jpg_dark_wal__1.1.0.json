@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/wallpaper-main/wallhaven-we66g6.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0F1928",
+        "foreground": "#d1dbcd",
+        "cursor": "#d1dbcd"
+    },
+    "colors": {
+        "color0": "#0F1928",
+        "color1": "#3C8D5D",
+        "color2": "#60995E",
+        "color3": "#A5BC5E",
+        "color4": "#1E71AB",
+        "color5": "#B75E99",
+        "color6": "#459FA9",
+        "color7": "#d1dbcd",
+        "color8": "#92998f",
+        "color9": "#3C8D5D",
+        "color10": "#60995E",
+        "color11": "#A5BC5E",
+        "color12": "#1E71AB",
+        "color13": "#B75E99",
+        "color14": "#459FA9",
+        "color15": "#d1dbcd"
+    }
+}

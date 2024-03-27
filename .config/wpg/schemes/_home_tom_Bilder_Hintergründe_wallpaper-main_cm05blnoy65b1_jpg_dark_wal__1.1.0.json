@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/wallpaper-main/cm05blnoy65b1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0B131B",
+        "foreground": "#e7a47e",
+        "cursor": "#e7a47e"
+    },
+    "colors": {
+        "color0": "#0B131B",
+        "color1": "#524F37",
+        "color2": "#103944",
+        "color3": "#115252",
+        "color4": "#1C5E57",
+        "color5": "#9D2E10",
+        "color6": "#BC4112",
+        "color7": "#e7a47e",
+        "color8": "#a17258",
+        "color9": "#524F37",
+        "color10": "#103944",
+        "color11": "#115252",
+        "color12": "#1C5E57",
+        "color13": "#9D2E10",
+        "color14": "#BC4112",
+        "color15": "#e7a47e"
+    }
+}

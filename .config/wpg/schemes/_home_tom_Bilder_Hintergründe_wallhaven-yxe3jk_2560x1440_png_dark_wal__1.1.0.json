@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/wallhaven-yxe3jk_2560x1440.png",
+    "alpha": "100",
+    "special": {
+        "background": "#09110f",
+        "foreground": "#b8b5ba",
+        "cursor": "#b8b5ba"
+    },
+    "colors": {
+        "color0": "#09110f",
+        "color1": "#86767C",
+        "color2": "#AE7269",
+        "color3": "#C97D68",
+        "color4": "#CD806A",
+        "color5": "#5E6981",
+        "color6": "#757789",
+        "color7": "#b8b5ba",
+        "color8": "#807e82",
+        "color9": "#86767C",
+        "color10": "#AE7269",
+        "color11": "#C97D68",
+        "color12": "#CD806A",
+        "color13": "#5E6981",
+        "color14": "#757789",
+        "color15": "#b8b5ba"
+    }
+}

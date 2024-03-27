@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/solar-system-minimalism-q1-2560x1440.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0E1215",
+        "foreground": "#f1e3c4",
+        "cursor": "#f1e3c4"
+    },
+    "colors": {
+        "color0": "#0E1215",
+        "color1": "#CFA271",
+        "color2": "#F3CE7D",
+        "color3": "#6671B1",
+        "color4": "#6D78C1",
+        "color5": "#7788A8",
+        "color6": "#9B9B9D",
+        "color7": "#f1e3c4",
+        "color8": "#a89e89",
+        "color9": "#CFA271",
+        "color10": "#F3CE7D",
+        "color11": "#6671B1",
+        "color12": "#6D78C1",
+        "color13": "#7788A8",
+        "color14": "#9B9B9D",
+        "color15": "#f1e3c4"
+    }
+}

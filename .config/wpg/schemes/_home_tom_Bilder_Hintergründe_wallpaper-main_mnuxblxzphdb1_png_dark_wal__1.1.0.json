@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/wallpaper-main/mnuxblxzphdb1.png",
+    "alpha": "100",
+    "special": {
+        "background": "#091836",
+        "foreground": "#c7e2de",
+        "cursor": "#c7e2de"
+    },
+    "colors": {
+        "color0": "#091836",
+        "color1": "#91757E",
+        "color2": "#356C89",
+        "color3": "#4F768C",
+        "color4": "#5F98A6",
+        "color5": "#62AEBA",
+        "color6": "#ADB0AB",
+        "color7": "#c7e2de",
+        "color8": "#8b9e9b",
+        "color9": "#91757E",
+        "color10": "#356C89",
+        "color11": "#4F768C",
+        "color12": "#5F98A6",
+        "color13": "#62AEBA",
+        "color14": "#ADB0AB",
+        "color15": "#c7e2de"
+    }
+}

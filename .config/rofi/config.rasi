@@ -2,7 +2,7 @@ configuration{
     modi: "drun,run,window";
     icon-theme: "Oranchelo";
     show-icons: true;
-    terminal: "alacritty";
+    terminal: "kitty";
     drun-display-format: "{icon} {name}";
     location: 0;
     disable-history: false;
@@ -14,7 +14,28 @@ configuration{
     sidebar-mode: true;
 }
 
-//@theme "catppuccin-mocha"
-
-//@theme "/usr/share/rofi/themes/gruvbox-dark.rasi"
 @import "~/.cache/wal/colors-rofi-dark"
+
+window {
+    border-radius:  10;
+    width:          600;
+}
+
+element {
+    border-radius:  4;
+}
+
+textbox {
+    border-radius:  4;
+}
+
+entry {
+    border-radius:  4;
+}
+
+mode-switcher {
+    margin: 10px 0px 0px 0px;
+    border-radius:  4;
+}
+
+

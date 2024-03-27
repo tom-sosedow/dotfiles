@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/wallpaper-main/wallhaven-ex99o8.png",
+    "alpha": "100",
+    "special": {
+        "background": "#100d10",
+        "foreground": "#f5c7c0",
+        "cursor": "#f5c7c0"
+    },
+    "colors": {
+        "color0": "#100d10",
+        "color1": "#783FA1",
+        "color2": "#6E4897",
+        "color3": "#7642A0",
+        "color4": "#984EA3",
+        "color5": "#DF6BAC",
+        "color6": "#D05CC9",
+        "color7": "#f5c7c0",
+        "color8": "#ab8b86",
+        "color9": "#783FA1",
+        "color10": "#6E4897",
+        "color11": "#7642A0",
+        "color12": "#984EA3",
+        "color13": "#DF6BAC",
+        "color14": "#D05CC9",
+        "color15": "#f5c7c0"
+    }
+}

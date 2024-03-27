@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/wallpaper-main/h4059nw48i4b1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c1018",
+        "foreground": "#cee1e8",
+        "cursor": "#cee1e8"
+    },
+    "colors": {
+        "color0": "#0c1018",
+        "color1": "#346C8B",
+        "color2": "#5A738D",
+        "color3": "#6C90A1",
+        "color4": "#5EADCC",
+        "color5": "#97A3A9",
+        "color6": "#AFBAC1",
+        "color7": "#cee1e8",
+        "color8": "#909da2",
+        "color9": "#346C8B",
+        "color10": "#5A738D",
+        "color11": "#6C90A1",
+        "color12": "#5EADCC",
+        "color13": "#97A3A9",
+        "color14": "#AFBAC1",
+        "color15": "#cee1e8"
+    }
+}

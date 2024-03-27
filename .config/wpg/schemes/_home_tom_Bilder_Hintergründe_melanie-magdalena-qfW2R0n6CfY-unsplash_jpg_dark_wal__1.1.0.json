@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/melanie-magdalena-qfW2R0n6CfY-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#060E1D",
+        "foreground": "#f6d0bc",
+        "cursor": "#f6d0bc"
+    },
+    "colors": {
+        "color0": "#060E1D",
+        "color1": "#D35738",
+        "color2": "#AB554B",
+        "color3": "#E46F47",
+        "color4": "#A18C7F",
+        "color5": "#F99364",
+        "color6": "#486399",
+        "color7": "#f6d0bc",
+        "color8": "#ac9183",
+        "color9": "#D35738",
+        "color10": "#AB554B",
+        "color11": "#E46F47",
+        "color12": "#A18C7F",
+        "color13": "#F99364",
+        "color14": "#486399",
+        "color15": "#f6d0bc"
+    }
+}

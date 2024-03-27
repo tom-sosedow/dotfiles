@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/wallpaper-main/gysnok3lji7b1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0d15",
+        "foreground": "#a0cecb",
+        "cursor": "#a0cecb"
+    },
+    "colors": {
+        "color0": "#0a0d15",
+        "color1": "#596254",
+        "color2": "#B15F50",
+        "color3": "#38936A",
+        "color4": "#608F6D",
+        "color5": "#BFA062",
+        "color6": "#7E67A2",
+        "color7": "#a0cecb",
+        "color8": "#70908e",
+        "color9": "#596254",
+        "color10": "#B15F50",
+        "color11": "#38936A",
+        "color12": "#608F6D",
+        "color13": "#BFA062",
+        "color14": "#7E67A2",
+        "color15": "#a0cecb"
+    }
+}

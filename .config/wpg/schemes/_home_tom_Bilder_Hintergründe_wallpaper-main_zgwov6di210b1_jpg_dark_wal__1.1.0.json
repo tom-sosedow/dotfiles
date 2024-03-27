@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/wallpaper-main/zgwov6di210b1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0A0C12",
+        "foreground": "#dfc8bc",
+        "cursor": "#dfc8bc"
+    },
+    "colors": {
+        "color0": "#0A0C12",
+        "color1": "#904648",
+        "color2": "#8E4657",
+        "color3": "#AE4F58",
+        "color4": "#A2615E",
+        "color5": "#E05B5B",
+        "color6": "#E2BB73",
+        "color7": "#dfc8bc",
+        "color8": "#9c8c83",
+        "color9": "#904648",
+        "color10": "#8E4657",
+        "color11": "#AE4F58",
+        "color12": "#A2615E",
+        "color13": "#E05B5B",
+        "color14": "#E2BB73",
+        "color15": "#dfc8bc"
+    }
+}

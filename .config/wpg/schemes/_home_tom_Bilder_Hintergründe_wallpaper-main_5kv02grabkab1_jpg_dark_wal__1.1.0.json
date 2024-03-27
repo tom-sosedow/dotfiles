@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/wallpaper-main/5kv02grabkab1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#10170b",
+        "foreground": "#dfe9f3",
+        "cursor": "#dfe9f3"
+    },
+    "colors": {
+        "color0": "#10170b",
+        "color1": "#3CA3F1",
+        "color2": "#5CABEA",
+        "color3": "#4DB6F7",
+        "color4": "#5EC7FA",
+        "color5": "#A7ACAB",
+        "color6": "#A2D6FB",
+        "color7": "#dfe9f3",
+        "color8": "#9ca3aa",
+        "color9": "#3CA3F1",
+        "color10": "#5CABEA",
+        "color11": "#4DB6F7",
+        "color12": "#5EC7FA",
+        "color13": "#A7ACAB",
+        "color14": "#A2D6FB",
+        "color15": "#dfe9f3"
+    }
+}

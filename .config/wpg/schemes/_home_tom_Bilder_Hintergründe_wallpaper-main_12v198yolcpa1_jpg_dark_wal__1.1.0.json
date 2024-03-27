@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/wallpaper-main/12v198yolcpa1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0E2524",
+        "foreground": "#ececdf",
+        "cursor": "#ececdf"
+    },
+    "colors": {
+        "color0": "#0E2524",
+        "color1": "#54BAC1",
+        "color2": "#6DC6C3",
+        "color3": "#97AB9C",
+        "color4": "#A4CBB8",
+        "color5": "#A8C9BB",
+        "color6": "#DDD3AD",
+        "color7": "#ececdf",
+        "color8": "#a5a59c",
+        "color9": "#54BAC1",
+        "color10": "#6DC6C3",
+        "color11": "#97AB9C",
+        "color12": "#A4CBB8",
+        "color13": "#A8C9BB",
+        "color14": "#DDD3AD",
+        "color15": "#ececdf"
+    }
+}

@@ -1,0 +1,95 @@
+@import url("wal-colors.css");
+
+* {
+    border: none;
+    font-family: Font Awesome, Roboto, Arial, sans-serif;
+    font-size: 14px;
+    color: @foreground;
+    border-radius: 8px;
+}
+
+window {
+	/*font-weight: bold;*/
+}
+window#waybar {
+    background: rgba(0, 0, 0, 0);
+}
+/*-----module groups----*/
+.modules-right {
+	background-color: @background;
+    margin: 2px 10px 0 0;
+}
+.modules-center {
+	background-color: @background;
+    margin: 2px 0 0 0;
+}
+.modules-left {
+    margin: 2px 0 0 5px;
+	background-color: @background;
+    padding: 3px 3px 3px 3px;
+}
+/*-----modules indv----*/
+#workspaces button {
+    padding: 1px 5px;
+    background-color: transparent;
+}
+#workspaces button:hover {
+    box-shadow: inherit;
+	background-color: @color2;
+}
+
+#workspaces button.active {
+	background-color: @color1;
+    border-radius: 20px;
+}
+
+#clock,
+#battery,
+#cpu,
+#memory,
+#temperature,
+#network,
+#pulseaudio,
+#custom-media,
+#tray,
+#mode,
+#upower,
+#custom-notification,
+#custom-menu,
+#idle_inhibitor {
+    padding: 0 10px;
+}
+#mode {
+    color: #cc3436;
+    font-weight: bold;
+}
+#custom-power {
+    background-color: @color6;
+    border-radius: 100px;
+    margin: 5px 5px;
+    padding: 1px 1px 1px 6px;
+}
+
+/*-----Indicators----*/
+#idle_inhibitor.activated {
+    color: #2dcc36;
+}
+#pulseaudio.muted {
+    color: #cc3436;
+}
+#battery.charging {
+    color: #2dcc36;
+}
+#battery.warning:not(.charging) {
+	color: #e6e600;
+}
+#battery.critical:not(.charging) {
+    color: #cc3436;
+}
+#temperature.critical {
+    color: #cc3436;
+}
+
+#custom-notification {
+    font-family: "NotoSansMono Nerd Font";
+}

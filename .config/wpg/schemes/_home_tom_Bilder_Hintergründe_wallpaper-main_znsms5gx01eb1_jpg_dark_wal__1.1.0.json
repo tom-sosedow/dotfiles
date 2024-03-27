@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/wallpaper-main/znsms5gx01eb1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#091111",
+        "foreground": "#edbc98",
+        "cursor": "#edbc98"
+    },
+    "colors": {
+        "color0": "#091111",
+        "color1": "#533020",
+        "color2": "#604734",
+        "color3": "#883A18",
+        "color4": "#A24C1D",
+        "color5": "#D7671C",
+        "color6": "#C07543",
+        "color7": "#edbc98",
+        "color8": "#a5836a",
+        "color9": "#533020",
+        "color10": "#604734",
+        "color11": "#883A18",
+        "color12": "#A24C1D",
+        "color13": "#D7671C",
+        "color14": "#C07543",
+        "color15": "#edbc98"
+    }
+}

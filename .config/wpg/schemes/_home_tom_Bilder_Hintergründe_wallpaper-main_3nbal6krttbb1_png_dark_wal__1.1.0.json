@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/wallpaper-main/3nbal6krttbb1.png",
+    "alpha": "100",
+    "special": {
+        "background": "#09011C",
+        "foreground": "#c793c2",
+        "cursor": "#c793c2"
+    },
+    "colors": {
+        "color0": "#09011C",
+        "color1": "#4B0269",
+        "color2": "#75006D",
+        "color3": "#5C2B6B",
+        "color4": "#C01D42",
+        "color5": "#FBB444",
+        "color6": "#602394",
+        "color7": "#c793c2",
+        "color8": "#8b6687",
+        "color9": "#4B0269",
+        "color10": "#75006D",
+        "color11": "#5C2B6B",
+        "color12": "#C01D42",
+        "color13": "#FBB444",
+        "color14": "#602394",
+        "color15": "#c793c2"
+    }
+}

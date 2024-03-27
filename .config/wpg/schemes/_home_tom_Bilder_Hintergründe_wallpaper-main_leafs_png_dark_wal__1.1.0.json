@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/wallpaper-main/leafs.png",
+    "alpha": "100",
+    "special": {
+        "background": "#101916",
+        "foreground": "#d0e0c1",
+        "cursor": "#d0e0c1"
+    },
+    "colors": {
+        "color0": "#101916",
+        "color1": "#4C7450",
+        "color2": "#629F58",
+        "color3": "#63AE4B",
+        "color4": "#8AB166",
+        "color5": "#93D56D",
+        "color6": "#7AB584",
+        "color7": "#d0e0c1",
+        "color8": "#919c87",
+        "color9": "#4C7450",
+        "color10": "#629F58",
+        "color11": "#63AE4B",
+        "color12": "#8AB166",
+        "color13": "#93D56D",
+        "color14": "#7AB584",
+        "color15": "#d0e0c1"
+    }
+}

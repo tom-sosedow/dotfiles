@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/wallpaper-main/wallhaven-we628p.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0a0a",
+        "foreground": "#e1e6e7",
+        "cursor": "#e1e6e7"
+    },
+    "colors": {
+        "color0": "#0a0a0a",
+        "color1": "#A98C74",
+        "color2": "#75828B",
+        "color3": "#A2A19E",
+        "color4": "#D4C3AE",
+        "color5": "#95B8CE",
+        "color6": "#ACCFE1",
+        "color7": "#e1e6e7",
+        "color8": "#9da1a1",
+        "color9": "#A98C74",
+        "color10": "#75828B",
+        "color11": "#A2A19E",
+        "color12": "#D4C3AE",
+        "color13": "#95B8CE",
+        "color14": "#ACCFE1",
+        "color15": "#e1e6e7"
+    }
+}

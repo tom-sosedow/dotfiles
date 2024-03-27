@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/wallpaper-main/wallhaven-d6e1pg.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0A0B16",
+        "foreground": "#b1bcd4",
+        "cursor": "#b1bcd4"
+    },
+    "colors": {
+        "color0": "#0A0B16",
+        "color1": "#AB563B",
+        "color2": "#CEA05C",
+        "color3": "#3C5094",
+        "color4": "#4D5B9E",
+        "color5": "#6571DB",
+        "color6": "#B1719C",
+        "color7": "#b1bcd4",
+        "color8": "#7b8394",
+        "color9": "#AB563B",
+        "color10": "#CEA05C",
+        "color11": "#3C5094",
+        "color12": "#4D5B9E",
+        "color13": "#6571DB",
+        "color14": "#B1719C",
+        "color15": "#b1bcd4"
+    }
+}
