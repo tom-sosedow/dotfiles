@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/wallpaper-main/WallStallsave-2023-12-07-17-49-06-632074.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#040B12",
+        "foreground": "#a7c0c4",
+        "cursor": "#a7c0c4"
+    },
+    "colors": {
+        "color0": "#040B12",
+        "color1": "#5E6662",
+        "color2": "#C75537",
+        "color3": "#9F6653",
+        "color4": "#B7926D",
+        "color5": "#ED9B65",
+        "color6": "#3C728D",
+        "color7": "#a7c0c4",
+        "color8": "#748689",
+        "color9": "#5E6662",
+        "color10": "#C75537",
+        "color11": "#9F6653",
+        "color12": "#B7926D",
+        "color13": "#ED9B65",
+        "color14": "#3C728D",
+        "color15": "#a7c0c4"
+    }
+}

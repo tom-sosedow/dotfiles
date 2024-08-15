@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/wallpaper-main/wallhaven-o51q1p.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#121213",
+        "foreground": "#dfd2bc",
+        "cursor": "#dfd2bc"
+    },
+    "colors": {
+        "color0": "#121213",
+        "color1": "#77664B",
+        "color2": "#865539",
+        "color3": "#897655",
+        "color4": "#957451",
+        "color5": "#A59069",
+        "color6": "#C6A87A",
+        "color7": "#dfd2bc",
+        "color8": "#9c9383",
+        "color9": "#77664B",
+        "color10": "#865539",
+        "color11": "#897655",
+        "color12": "#957451",
+        "color13": "#A59069",
+        "color14": "#C6A87A",
+        "color15": "#dfd2bc"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/wallpaper-main/eifi1j6lrru21.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0E2630",
+        "foreground": "#bad8d5",
+        "cursor": "#bad8d5"
+    },
+    "colors": {
+        "color0": "#0E2630",
+        "color1": "#2E7B83",
+        "color2": "#388A8E",
+        "color3": "#3E98A0",
+        "color4": "#469798",
+        "color5": "#61ACAA",
+        "color6": "#7DC1BB",
+        "color7": "#bad8d5",
+        "color8": "#829795",
+        "color9": "#2E7B83",
+        "color10": "#388A8E",
+        "color11": "#3E98A0",
+        "color12": "#469798",
+        "color13": "#61ACAA",
+        "color14": "#7DC1BB",
+        "color15": "#bad8d5"
+    }
+}

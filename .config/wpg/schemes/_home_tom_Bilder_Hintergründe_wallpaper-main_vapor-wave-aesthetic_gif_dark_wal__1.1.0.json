@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/wallpaper-main/vapor-wave-aesthetic.gif",
+    "alpha": "100",
+    "special": {
+        "background": "#4b1b3d",
+        "foreground": "#cfd1d7",
+        "cursor": "#cfd1d7"
+    },
+    "colors": {
+        "color0": "#4b1b3d",
+        "color1": "#546B94",
+        "color2": "#8F6E90",
+        "color3": "#3A98B6",
+        "color4": "#588FB2",
+        "color5": "#5AB2CD",
+        "color6": "#58D1E5",
+        "color7": "#cfd1d7",
+        "color8": "#909296",
+        "color9": "#546B94",
+        "color10": "#8F6E90",
+        "color11": "#3A98B6",
+        "color12": "#588FB2",
+        "color13": "#5AB2CD",
+        "color14": "#58D1E5",
+        "color15": "#cfd1d7"
+    }
+}

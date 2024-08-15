@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tom/.config/wpg/wallpapers/koq8o1888jdb1.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#221b1b",
+        "foreground": "#c7c6c6",
+        "cursor": "#c7c6c6"
+    },
+    "colors": {
+        "color0": "#221b1b",
+        "color1": "#ac8a88",
+        "color2": "#ab7363",
+        "color3": "#ad5d3d",
+        "color4": "#5a86a9",
+        "color5": "#8295a9",
+        "color6": "#a4a1a3",
+        "color7": "#c7c6c6",
+        "color8": "#595454",
+        "color9": "#ac8a88",
+        "color10": "#ab7363",
+        "color11": "#ad5d3d",
+        "color12": "#5a86a9",
+        "color13": "#8295a9",
+        "color14": "#a4a1a3",
+        "color15": "#c7c6c6"
+    }
+}

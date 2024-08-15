@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-wpg -nrs '/home/tom/Bilder/Hintergründe/wallpaper-main/wallhaven-d6e1pg.jpg' '/home/tom/Bilder/Hintergründe/wallpaper-main/wallhaven-d6e1pg.jpg'
+wpg -nrs '/home/tom/Bilder/Hintergründe/wallpaper-main/WallStallsave-2024-01-06-14-29-25-192198.jpeg' '/home/tom/Bilder/Hintergründe/wallpaper-main/WallStallsave-2024-01-06-14-29-25-192198.jpeg'

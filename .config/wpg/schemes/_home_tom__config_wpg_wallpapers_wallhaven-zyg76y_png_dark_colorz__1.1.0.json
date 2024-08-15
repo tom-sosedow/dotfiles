@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tom/.config/wpg/wallpapers/wallhaven-zyg76y.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#241a08",
+        "foreground": "#c8c5c1",
+        "cursor": "#c8c5c1"
+    },
+    "colors": {
+        "color0": "#241a08",
+        "color1": "#b7842b",
+        "color2": "#aa9e7f",
+        "color3": "#b4c6be",
+        "color4": "#8ca3a5",
+        "color5": "#5398a6",
+        "color6": "#1a82aa",
+        "color7": "#c8c5c1",
+        "color8": "#5a5345",
+        "color9": "#b7842b",
+        "color10": "#aa9e7f",
+        "color11": "#b4c6be",
+        "color12": "#8ca3a5",
+        "color13": "#5398a6",
+        "color14": "#1a82aa",
+        "color15": "#c8c5c1"
+    }
+}

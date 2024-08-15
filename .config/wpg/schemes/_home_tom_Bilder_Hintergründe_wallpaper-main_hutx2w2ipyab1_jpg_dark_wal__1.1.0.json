@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/wallpaper-main/hutx2w2ipyab1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0B141E",
+        "foreground": "#c38ac1",
+        "cursor": "#c38ac1"
+    },
+    "colors": {
+        "color0": "#0B141E",
+        "color1": "#342965",
+        "color2": "#552562",
+        "color3": "#4D2972",
+        "color4": "#92227B",
+        "color5": "#6D2A89",
+        "color6": "#78458D",
+        "color7": "#c38ac1",
+        "color8": "#886087",
+        "color9": "#342965",
+        "color10": "#552562",
+        "color11": "#4D2972",
+        "color12": "#92227B",
+        "color13": "#6D2A89",
+        "color14": "#78458D",
+        "color15": "#c38ac1"
+    }
+}

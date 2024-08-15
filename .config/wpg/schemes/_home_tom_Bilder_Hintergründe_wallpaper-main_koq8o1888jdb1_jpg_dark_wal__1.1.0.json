@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/wallpaper-main/koq8o1888jdb1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#111315",
+        "foreground": "#c3c1c1",
+        "cursor": "#c3c1c1"
+    },
+    "colors": {
+        "color0": "#111315",
+        "color1": "#8C6C63",
+        "color2": "#788779",
+        "color3": "#B39074",
+        "color4": "#34608B",
+        "color5": "#637588",
+        "color6": "#728997",
+        "color7": "#c3c1c1",
+        "color8": "#888787",
+        "color9": "#8C6C63",
+        "color10": "#788779",
+        "color11": "#B39074",
+        "color12": "#34608B",
+        "color13": "#637588",
+        "color14": "#728997",
+        "color15": "#c3c1c1"
+    }
+}

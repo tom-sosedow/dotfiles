@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/wallpaper-main/dw0gxi21ie5b1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#14061e",
+        "foreground": "#ecc9d9",
+        "cursor": "#ecc9d9"
+    },
+    "colors": {
+        "color0": "#14061e",
+        "color1": "#9D2D8E",
+        "color2": "#9E68A1",
+        "color3": "#CD73A3",
+        "color4": "#7889B0",
+        "color5": "#A98AB6",
+        "color6": "#DC90B6",
+        "color7": "#ecc9d9",
+        "color8": "#a58c97",
+        "color9": "#9D2D8E",
+        "color10": "#9E68A1",
+        "color11": "#CD73A3",
+        "color12": "#7889B0",
+        "color13": "#A98AB6",
+        "color14": "#DC90B6",
+        "color15": "#ecc9d9"
+    }
+}

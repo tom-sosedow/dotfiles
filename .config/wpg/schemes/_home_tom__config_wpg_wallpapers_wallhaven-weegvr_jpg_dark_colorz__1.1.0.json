@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tom/.config/wpg/wallpapers/wallhaven-weegvr.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#211a0a",
+        "foreground": "#c7c5c1",
+        "cursor": "#c7c5c1"
+    },
+    "colors": {
+        "color0": "#211a0a",
+        "color1": "#aa8733",
+        "color2": "#a99964",
+        "color3": "#a0a797",
+        "color4": "#abbec1",
+        "color5": "#2787b2",
+        "color6": "#60a2c0",
+        "color7": "#c7c5c1",
+        "color8": "#585347",
+        "color9": "#aa8733",
+        "color10": "#a99964",
+        "color11": "#a0a797",
+        "color12": "#abbec1",
+        "color13": "#2787b2",
+        "color14": "#60a2c0",
+        "color15": "#c7c5c1"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tom/.config/wpg/wallpapers/wallhaven-yxgmll_2560x1440.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#c8c6c4",
+        "foreground": "#010101",
+        "cursor": "#010101"
+    },
+    "colors": {
+        "color0": "#c8c6c4",
+        "color1": "#b2896d",
+        "color2": "#82a0b4",
+        "color3": "#b28148",
+        "color4": "#3781ac",
+        "color5": "#bea695",
+        "color6": "#4ba8c2",
+        "color7": "#231b15",
+        "color8": "#aeadab",
+        "color9": "#955b33",
+        "color10": "#407598",
+        "color11": "#925b1c",
+        "color12": "#135f8b",
+        "color13": "#a26f4a",
+        "color14": "#1d829e",
+        "color15": "#010101"
+    }
+}

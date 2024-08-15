@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tom/.config/wpg/wallpapers/wallhaven-p93qd3.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#201f1f",
+        "foreground": "#c7c7c7",
+        "cursor": "#c7c7c7"
+    },
+    "colors": {
+        "color0": "#201f1f",
+        "color1": "#a49f9f",
+        "color2": "#90aac7",
+        "color3": "#768dac",
+        "color4": "#b9bec5",
+        "color5": "#5572aa",
+        "color6": "#3e62aa",
+        "color7": "#c7c7c7",
+        "color8": "#575757",
+        "color9": "#a49f9f",
+        "color10": "#90aac7",
+        "color11": "#768dac",
+        "color12": "#b9bec5",
+        "color13": "#5572aa",
+        "color14": "#3e62aa",
+        "color15": "#c7c7c7"
+    }
+}

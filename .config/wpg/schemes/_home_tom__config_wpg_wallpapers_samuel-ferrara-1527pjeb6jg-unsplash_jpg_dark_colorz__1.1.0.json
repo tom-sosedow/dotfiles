@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tom/.config/wpg/wallpapers/samuel-ferrara-1527pjeb6jg-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#251d1a",
+        "foreground": "#c8c6c5",
+        "cursor": "#c8c6c5"
+    },
+    "colors": {
+        "color0": "#251d1a",
+        "color1": "#bd9283",
+        "color2": "#657caa",
+        "color3": "#4869aa",
+        "color4": "#7c8baa",
+        "color5": "#9d95aa",
+        "color6": "#c0acb0",
+        "color7": "#c8c6c5",
+        "color8": "#5b5553",
+        "color9": "#bd9283",
+        "color10": "#657caa",
+        "color11": "#4869aa",
+        "color12": "#7c8baa",
+        "color13": "#9d95aa",
+        "color14": "#c0acb0",
+        "color15": "#c8c6c5"
+    }
+}

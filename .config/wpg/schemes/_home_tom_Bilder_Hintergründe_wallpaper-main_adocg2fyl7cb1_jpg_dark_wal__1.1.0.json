@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/wallpaper-main/adocg2fyl7cb1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0E1B30",
+        "foreground": "#cddee7",
+        "cursor": "#cddee7"
+    },
+    "colors": {
+        "color0": "#0E1B30",
+        "color1": "#6D94B1",
+        "color2": "#78AAC7",
+        "color3": "#87A5BA",
+        "color4": "#91B5CA",
+        "color5": "#A3BDCC",
+        "color6": "#ADC8D7",
+        "color7": "#cddee7",
+        "color8": "#8f9ba1",
+        "color9": "#6D94B1",
+        "color10": "#78AAC7",
+        "color11": "#87A5BA",
+        "color12": "#91B5CA",
+        "color13": "#A3BDCC",
+        "color14": "#ADC8D7",
+        "color15": "#cddee7"
+    }
+}

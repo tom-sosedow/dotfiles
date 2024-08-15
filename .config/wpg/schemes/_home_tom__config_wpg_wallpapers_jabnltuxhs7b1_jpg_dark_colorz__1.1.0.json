@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tom/.config/wpg/wallpapers/jabnltuxhs7b1.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#211d1c",
+        "foreground": "#c7c6c6",
+        "cursor": "#c7c6c6"
+    },
+    "colors": {
+        "color0": "#211d1c",
+        "color1": "#a79691",
+        "color2": "#aa7e6f",
+        "color3": "#aa6342",
+        "color4": "#c5afa2",
+        "color5": "#a19a55",
+        "color6": "#7080a9",
+        "color7": "#c7c6c6",
+        "color8": "#585554",
+        "color9": "#a79691",
+        "color10": "#aa7e6f",
+        "color11": "#aa6342",
+        "color12": "#c5afa2",
+        "color13": "#a19a55",
+        "color14": "#7080a9",
+        "color15": "#c7c6c6"
+    }
+}

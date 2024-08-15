@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tom/Bilder/Hintergr\u00fcnde/wallpaper-main/wallhaven-weegvr.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1d1d16",
+        "foreground": "#c6dfea",
+        "cursor": "#c6dfea"
+    },
+    "colors": {
+        "color0": "#1d1d16",
+        "color1": "#57778A",
+        "color2": "#2A90AA",
+        "color3": "#5B99AC",
+        "color4": "#4B9ECE",
+        "color5": "#5CA9D6",
+        "color6": "#B0B5A7",
+        "color7": "#c6dfea",
+        "color8": "#8a9ca3",
+        "color9": "#57778A",
+        "color10": "#2A90AA",
+        "color11": "#5B99AC",
+        "color12": "#4B9ECE",
+        "color13": "#5CA9D6",
+        "color14": "#B0B5A7",
+        "color15": "#c6dfea"
+    }
+}

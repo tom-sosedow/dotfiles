@@ -17,6 +17,11 @@
         "persistent-workspaces": {
           "eDP-1": [1,2,3,4,5],
           "HDMI-A-2": [6,7,8,9,0]
+        },
+        "format": "{icon}",
+        "format-icons": {
+            "active": "",
+		    "default": ""
         }
     },
     "tray": {

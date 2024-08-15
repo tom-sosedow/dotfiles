@@ -93,3 +93,24 @@ window#waybar {
 #custom-notification {
     font-family: "NotoSansMono Nerd Font";
 }
+
+/*
+#clock {
+    color: @color1;
+}
+
+#cpu {
+    color: @color2;
+}
+
+#memory {
+    color: @color3;
+}
+
+#network {
+    color: @color4;
+}
+
+#pulseaudio {
+    color: @color5;
+}*/
