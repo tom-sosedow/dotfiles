@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tom/.config/wpg/wallpapers/cm05blnoy65b1.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0B131B",
+        "foreground": "#9a9467",
+        "cursor": "#9a9467"
+    },
+    "colors": {
+        "color0": "#0B131B",
+        "color1": "#BC4112",
+        "color2": "#1C5E57",
+        "color3": "#e7a47e",
+        "color4": "#115252",
+        "color5": "#9D2E10",
+        "color6": "#103944",
+        "color7": "#524F37",
+        "color8": "#182b3f",
+        "color9": "#ff4e09",
+        "color10": "#1c8277",
+        "color11": "#ffce8c",
+        "color12": "#0f7171",
+        "color13": "#d73509",
+        "color14": "#0f4d5d",
+        "color15": "#9a9467"
+    }
+}

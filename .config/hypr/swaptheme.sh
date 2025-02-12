@@ -1,11 +1,12 @@
 #!/bin/bash
 
-waypaper --random
+# new background
+new_path="$(cat ~/.config/waypaper/config.ini | grep "wallpaper =" | sed 's/wallpaper = ~//')"
 
-new_background="$(cat ~/.config/waypaper/config.ini | grep "wallpaper =" | sed 's/wallpaper = //')"
+echo "$HOME"$new_path
 
-wpg -a "$new_background" --light --sat 0 0.4 --backend colorz
-wpg -ns "$new_background"
-pywalfox update
+wal -n -i "$HOME"$new_path --backend haishoku --saturate 0.82
 
-#killall -SIGUSR2 waybar
+. "$(dirname "${BASH_SOURCE[0]}")"/generate_chromium.sh
+
+hyprpanel useTheme ".cache/wal/colors-hyprpanel.json"

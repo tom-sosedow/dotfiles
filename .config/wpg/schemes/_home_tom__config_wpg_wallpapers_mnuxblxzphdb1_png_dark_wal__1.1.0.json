@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tom/.config/wpg/wallpapers/mnuxblxzphdb1.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#091836",
+        "foreground": "#eeffff",
+        "cursor": "#eeffff"
+    },
+    "colors": {
+        "color0": "#091836",
+        "color1": "#91757E",
+        "color2": "#4F768C",
+        "color3": "#ADB0AB",
+        "color4": "#356C89",
+        "color5": "#5F98A6",
+        "color6": "#62AEBA",
+        "color7": "#c7e2de",
+        "color8": "#0f2a61",
+        "color9": "#cd879d",
+        "color10": "#589dc4",
+        "color11": "#dcfbc7",
+        "color12": "#3890be",
+        "color13": "#6acfe8",
+        "color14": "#6cefff",
+        "color15": "#eeffff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tom/.config/wpg/wallpapers/asda",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0E141B",
+        "foreground": "#e2ffff",
+        "cursor": "#e2ffff"
+    },
+    "colors": {
+        "color0": "#0E141B",
+        "color1": "#4B5051",
+        "color2": "#5A6669",
+        "color3": "#92816C",
+        "color4": "#395167",
+        "color5": "#354751",
+        "color6": "#5E7687",
+        "color7": "#abc4c8",
+        "color8": "#1e2c3c",
+        "color9": "#576e73",
+        "color10": "#688c95",
+        "color11": "#cea97b",
+        "color12": "#3f6990",
+        "color13": "#3c5e71",
+        "color14": "#6b9bbe",
+        "color15": "#e2ffff"
+    }
+}

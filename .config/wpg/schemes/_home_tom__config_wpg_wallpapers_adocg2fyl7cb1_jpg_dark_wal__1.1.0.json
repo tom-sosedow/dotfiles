@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tom/.config/wpg/wallpapers/adocg2fyl7cb1.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0E1B30",
+        "foreground": "#efffff",
+        "cursor": "#efffff"
+    },
+    "colors": {
+        "color0": "#0E1B30",
+        "color1": "#ADC8D7",
+        "color2": "#91B5CA",
+        "color3": "#A3BDCC",
+        "color4": "#6D94B1",
+        "color5": "#87A5BA",
+        "color6": "#78AAC7",
+        "color7": "#cddee7",
+        "color8": "#183057",
+        "color9": "#c7ffff",
+        "color10": "#a5f1ff",
+        "color11": "#bcfcff",
+        "color12": "#7bc3f8",
+        "color13": "#9adaff",
+        "color14": "#87e2ff",
+        "color15": "#efffff"
+    }
+}

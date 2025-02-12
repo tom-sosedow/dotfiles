@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tom/.config/wpg/wallpapers/ffarjkok2s9b1.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a111a",
+        "foreground": "#e8ffff",
+        "cursor": "#e8ffff"
+    },
+    "colors": {
+        "color0": "#0a111a",
+        "color1": "#4C99BA",
+        "color2": "#507095",
+        "color3": "#ABA1B2",
+        "color4": "#2D698F",
+        "color5": "#966F85",
+        "color6": "#61ACCC",
+        "color7": "#c6e3ed",
+        "color8": "#17283e",
+        "color9": "#51cdff",
+        "color10": "#5990d0",
+        "color11": "#e2bbfd",
+        "color12": "#2e8bc6",
+        "color13": "#d37faf",
+        "color14": "#6ae7ff",
+        "color15": "#e8ffff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tom/.config/wpg/wallpapers/mnbvc",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0b0f0d",
+        "foreground": "#ffc6c9",
+        "cursor": "#ffc6c9"
+    },
+    "colors": {
+        "color0": "#0b0f0d",
+        "color1": "#5E2C25",
+        "color2": "#567368",
+        "color3": "#4A534F",
+        "color4": "#3B4845",
+        "color5": "#42403F",
+        "color6": "#54635B",
+        "color7": "#d49597",
+        "color8": "#1f2c26",
+        "color9": "#823227",
+        "color10": "#62a28a",
+        "color11": "#567667",
+        "color12": "#44665e",
+        "color13": "#5e5049",
+        "color14": "#618c75",
+        "color15": "#ffc6c9"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tom/.config/wpg/wallpapers/qshiosfril8b1.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a0d0e",
+        "foreground": "#d6ffff",
+        "cursor": "#d6ffff"
+    },
+    "colors": {
+        "color0": "#0a0d0e",
+        "color1": "#956A38",
+        "color2": "#204B61",
+        "color3": "#C49D5C",
+        "color4": "#2E718F",
+        "color5": "#447C96",
+        "color6": "#5593AD",
+        "color7": "#a2c1ce",
+        "color8": "#1e282b",
+        "color9": "#cf8a3b",
+        "color10": "#216486",
+        "color11": "#ffd064",
+        "color12": "#2f97c6",
+        "color13": "#4aa6d1",
+        "color14": "#5dc5f1",
+        "color15": "#d6ffff"
+    }
+}

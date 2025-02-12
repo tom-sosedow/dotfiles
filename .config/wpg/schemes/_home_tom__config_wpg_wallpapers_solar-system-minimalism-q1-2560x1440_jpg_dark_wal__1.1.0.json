@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tom/.config/wpg/wallpapers/solar-system-minimalism-q1-2560x1440.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0E1215",
+        "foreground": "#ffffe4",
+        "cursor": "#ffffe4"
+    },
+    "colors": {
+        "color0": "#0E1215",
+        "color1": "#CFA271",
+        "color2": "#7788A8",
+        "color3": "#F3CE7D",
+        "color4": "#6671B1",
+        "color5": "#9B9B9D",
+        "color6": "#6D78C1",
+        "color7": "#f1e3c4",
+        "color8": "#212b33",
+        "color9": "#ffd37e",
+        "color10": "#88abed",
+        "color11": "#ffff8a",
+        "color12": "#7286f8",
+        "color13": "#b5b5e0",
+        "color14": "#7a8dff",
+        "color15": "#ffffe4"
+    }
+}

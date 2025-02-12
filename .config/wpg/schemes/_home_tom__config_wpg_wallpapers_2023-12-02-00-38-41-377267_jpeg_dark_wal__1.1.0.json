@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tom/.config/wpg/wallpapers/2023-12-02-00-38-41-377267.jpeg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#041B2B",
+        "foreground": "#ccffff",
+        "cursor": "#ccffff"
+    },
+    "colors": {
+        "color0": "#041B2B",
+        "color1": "#05528C",
+        "color2": "#638B5E",
+        "color3": "#AFA569",
+        "color4": "#1B6AA7",
+        "color5": "#A7738C",
+        "color6": "#4B72A7",
+        "color7": "#9ccae2",
+        "color8": "#073759",
+        "color9": "#016bbb",
+        "color10": "#74c36b",
+        "color11": "#f5e376",
+        "color12": "#168be5",
+        "color13": "#eb83b5",
+        "color14": "#5191e8",
+        "color15": "#ccffff"
+    }
+}

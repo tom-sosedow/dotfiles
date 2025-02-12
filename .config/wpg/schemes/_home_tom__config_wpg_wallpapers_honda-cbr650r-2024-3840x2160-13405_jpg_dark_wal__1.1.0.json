@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tom/.config/wpg/wallpapers/honda-cbr650r-2024-3840x2160-13405.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#060817",
+        "foreground": "#e4f8ff",
+        "cursor": "#e4f8ff"
+    },
+    "colors": {
+        "color0": "#060817",
+        "color1": "#CA1024",
+        "color2": "#4E5961",
+        "color3": "#334653",
+        "color4": "#4B6A9A",
+        "color5": "#AF7C81",
+        "color6": "#384E67",
+        "color7": "#adbcc8",
+        "color8": "#0f143f",
+        "color9": "#ff0623",
+        "color10": "#5a7589",
+        "color11": "#395c74",
+        "color12": "#5286d7",
+        "color13": "#f68d98",
+        "color14": "#3e6490",
+        "color15": "#e4f8ff"
+    }
+}

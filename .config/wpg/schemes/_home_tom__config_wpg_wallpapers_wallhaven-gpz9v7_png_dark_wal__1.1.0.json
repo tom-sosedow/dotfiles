@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tom/.config/wpg/wallpapers/wallhaven-gpz9v7.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#090D16",
+        "foreground": "#ecfcff",
+        "cursor": "#ecfcff"
+    },
+    "colors": {
+        "color0": "#090D16",
+        "color1": "#39476E",
+        "color2": "#465476",
+        "color3": "#556894",
+        "color4": "#3F508B",
+        "color5": "#718AB4",
+        "color6": "#7894C6",
+        "color7": "#c1cedf",
+        "color8": "#16213a",
+        "color9": "#3f5799",
+        "color10": "#4e68a5",
+        "color11": "#5f81cf",
+        "color12": "#4460c1",
+        "color13": "#7faefd",
+        "color14": "#87baff",
+        "color15": "#ecfcff"
+    }
+}

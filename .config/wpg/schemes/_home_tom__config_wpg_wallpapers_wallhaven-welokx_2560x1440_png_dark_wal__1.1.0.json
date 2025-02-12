@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tom/.config/wpg/wallpapers/wallhaven-welokx_2560x1440.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c0704",
+        "foreground": "#ffffd3",
+        "cursor": "#ffffd3"
+    },
+    "colors": {
+        "color0": "#0c0704",
+        "color1": "#A14813",
+        "color2": "#5E5850",
+        "color3": "#976D50",
+        "color4": "#344247",
+        "color5": "#955A2A",
+        "color6": "#604B31",
+        "color7": "#dac4a1",
+        "color8": "#331c0e",
+        "color9": "#dd5a0c",
+        "color10": "#85745c",
+        "color11": "#d38a58",
+        "color12": "#3b5964",
+        "color13": "#ce732a",
+        "color14": "#866236",
+        "color15": "#ffffd3"
+    }
+}

@@ -1,0 +1,28 @@
+{
+	"manifest_version": 2,
+	"version": "1.0",
+	"name": "Pywalium Theme",
+	"theme": {
+		"colors": {
+			"background_tab": [26, 27, 26],
+			"background_tab_inactive": [26, 27, 26],
+			"bookmark_text": [197, 198, 197],
+			"button_background": [26, 27, 26],
+			"frame": [26, 27, 26],
+			"frame_inactive": [26, 27, 26],
+			"ntp_background": [26, 27, 26],
+			"ntp_header": [50, 51, 50],
+			"ntp_link": [73, 157, 15],
+			"ntp_text": [197, 198, 197],
+			"omnibox_background": [78, 79, 78],
+			"omnibox_text": [197, 198, 197],
+			"omnibox_text_inactive": [197, 198, 197],
+			"tab_background_text": [197, 198, 197],
+			"tab_background_text_inactive": [197, 198, 197],
+   			"tab_text": [197, 198, 197],
+   			"toolbar": [50, 51, 50],
+   			"toolbar_button_icon": [73, 157, 15],
+   			"toolbar_text": [197, 198, 197]
+		}
+	}
+}

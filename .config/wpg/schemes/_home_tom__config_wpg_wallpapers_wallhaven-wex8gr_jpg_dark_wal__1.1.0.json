@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tom/.config/wpg/wallpapers/wallhaven-wex8gr.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#05060B",
+        "foreground": "#e2f7ff",
+        "cursor": "#e2f7ff"
+    },
+    "colors": {
+        "color0": "#05060B",
+        "color1": "#334476",
+        "color2": "#445078",
+        "color3": "#384E8A",
+        "color4": "#3C60A0",
+        "color5": "#5062A3",
+        "color6": "#5E70CA",
+        "color7": "#aebeda",
+        "color8": "#13172e",
+        "color9": "#3752a4",
+        "color10": "#4c61a8",
+        "color11": "#3c5fc0",
+        "color12": "#3f78de",
+        "color13": "#5876e3",
+        "color14": "#6684ff",
+        "color15": "#e2f7ff"
+    }
+}

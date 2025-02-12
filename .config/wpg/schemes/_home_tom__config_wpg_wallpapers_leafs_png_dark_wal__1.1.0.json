@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tom/.config/wpg/wallpapers/leafs.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#101916",
+        "foreground": "#feffec",
+        "cursor": "#feffec"
+    },
+    "colors": {
+        "color0": "#101916",
+        "color1": "#8AB166",
+        "color2": "#63AE4B",
+        "color3": "#93D56D",
+        "color4": "#4C7450",
+        "color5": "#629F58",
+        "color6": "#7AB584",
+        "color7": "#d0e0c1",
+        "color8": "#233730",
+        "color9": "#b2f872",
+        "color10": "#78f251",
+        "color11": "#b9ff78",
+        "color12": "#56a35e",
+        "color13": "#73de62",
+        "color14": "#8afe9e",
+        "color15": "#feffec"
+    }
+}

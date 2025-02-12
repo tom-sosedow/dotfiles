@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tom/.config/wpg/wallpapers/wallhaven-l88zep.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0E2F31",
+        "foreground": "#f5fdff",
+        "cursor": "#f5fdff"
+    },
+    "colors": {
+        "color0": "#0E2F31",
+        "color1": "#A6CEE5",
+        "color2": "#449DC3",
+        "color3": "#BDB69E",
+        "color4": "#4772A4",
+        "color5": "#98B4D1",
+        "color6": "#57AACE",
+        "color7": "#dbe2ec",
+        "color8": "#185458",
+        "color9": "#bcffff",
+        "color10": "#47d2ff",
+        "color11": "#fff8b6",
+        "color12": "#4d93e4",
+        "color13": "#aee9ff",
+        "color14": "#5ee4ff",
+        "color15": "#f5fdff"
+    }
+}

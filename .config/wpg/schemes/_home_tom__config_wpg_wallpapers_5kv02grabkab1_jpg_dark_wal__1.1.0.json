@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tom/.config/wpg/wallpapers/5kv02grabkab1.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#10170b",
+        "foreground": "#f4ffff",
+        "cursor": "#f4ffff"
+    },
+    "colors": {
+        "color0": "#10170b",
+        "color1": "#5EC7FA",
+        "color2": "#5CABEA",
+        "color3": "#A7ACAB",
+        "color4": "#3CA3F1",
+        "color5": "#A2D6FB",
+        "color6": "#4DB6F7",
+        "color7": "#dfe9f3",
+        "color8": "#27391a",
+        "color9": "#63ffff",
+        "color10": "#62e0ff",
+        "color11": "#c3f5eb",
+        "color12": "#3ad6ff",
+        "color13": "#aeffff",
+        "color14": "#4ef1ff",
+        "color15": "#f4ffff"
+    }
+}

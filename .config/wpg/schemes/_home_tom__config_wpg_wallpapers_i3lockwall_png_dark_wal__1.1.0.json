@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tom/.config/wpg/wallpapers/i3lockwall.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#160d31",
+        "foreground": "#b7b7b7",
+        "cursor": "#b7b7b7"
+    },
+    "colors": {
+        "color0": "#160d31",
+        "color1": "#6280a3",
+        "color2": "#9e5a79",
+        "color3": "#5d559d",
+        "color4": "#a367a3",
+        "color5": "#42639c",
+        "color6": "#345095",
+        "color7": "#b5b5b5",
+        "color8": "#261759",
+        "color9": "#6f99a6",
+        "color10": "#a35f90",
+        "color11": "#6856a1",
+        "color12": "#a971a7",
+        "color13": "#45779c",
+        "color14": "#325894",
+        "color15": "#b7b7b7"
+    }
+}

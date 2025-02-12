@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tom/.config/wpg/wallpapers/eifi1j6lrru21.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0E2630",
+        "foreground": "#ebffff",
+        "cursor": "#ebffff"
+    },
+    "colors": {
+        "color0": "#0E2630",
+        "color1": "#469798",
+        "color2": "#388A8E",
+        "color3": "#7DC1BB",
+        "color4": "#2E7B83",
+        "color5": "#61ACAA",
+        "color6": "#3E98A0",
+        "color7": "#bad8d5",
+        "color8": "#184457",
+        "color9": "#4cd2d4",
+        "color10": "#3bbfc5",
+        "color11": "#8dffff",
+        "color12": "#30a9b5",
+        "color13": "#6cf1ed",
+        "color14": "#42d1de",
+        "color15": "#ebffff"
+    }
+}

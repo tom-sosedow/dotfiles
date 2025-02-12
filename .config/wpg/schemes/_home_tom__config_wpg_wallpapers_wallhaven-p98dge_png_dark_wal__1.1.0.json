@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tom/.config/wpg/wallpapers/wallhaven-p98dge.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1c1316",
+        "foreground": "#fff0f5",
+        "cursor": "#fff0f5"
+    },
+    "colors": {
+        "color0": "#1c1316",
+        "color1": "#9E5692",
+        "color2": "#6B5194",
+        "color3": "#E59477",
+        "color4": "#4E3E82",
+        "color5": "#C6698F",
+        "color6": "#584F91",
+        "color7": "#d2bbbf",
+        "color8": "#3a272d",
+        "color9": "#dd5fc8",
+        "color10": "#875acf",
+        "color11": "#ffb584",
+        "color12": "#5e44b5",
+        "color13": "#ff74b6",
+        "color14": "#6758cb",
+        "color15": "#fff0f5"
+    }
+}

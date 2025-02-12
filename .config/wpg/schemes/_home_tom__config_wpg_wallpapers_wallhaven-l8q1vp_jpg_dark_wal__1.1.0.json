@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tom/.config/wpg/wallpapers/wallhaven-l8q1vp.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#130f12",
+        "foreground": "#fffcfa",
+        "cursor": "#fffcfa"
+    },
+    "colors": {
+        "color0": "#130f12",
+        "color1": "#9C9899",
+        "color2": "#BEC1BE",
+        "color3": "#C7B6B2",
+        "color4": "#D3D1D0",
+        "color5": "#B3AFAF",
+        "color6": "#B3C6CA",
+        "color7": "#e9e3e1",
+        "color8": "#2f242c",
+        "color9": "#deb1bc",
+        "color10": "#deffde",
+        "color11": "#ffddce",
+        "color12": "#fff5e3",
+        "color13": "#ffcccc",
+        "color14": "#d0ffff",
+        "color15": "#fffcfa"
+    }
+}

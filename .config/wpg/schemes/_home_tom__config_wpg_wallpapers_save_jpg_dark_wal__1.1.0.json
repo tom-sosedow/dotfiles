@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tom/.config/wpg/wallpapers/save.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0A1312",
+        "foreground": "#f6ffff",
+        "cursor": "#f6ffff"
+    },
+    "colors": {
+        "color0": "#0A1312",
+        "color1": "#7C99A2",
+        "color2": "#536A60",
+        "color3": "#7A8A6B",
+        "color4": "#739192",
+        "color5": "#8EA7A5",
+        "color6": "#90ADAF",
+        "color7": "#cedcdd",
+        "color8": "#1a3431",
+        "color9": "#8ed0e5",
+        "color10": "#5f967e",
+        "color11": "#9ec37b",
+        "color12": "#84ccce",
+        "color13": "#a4ede7",
+        "color14": "#a6f2f8",
+        "color15": "#f6ffff"
+    }
+}

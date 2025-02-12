@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tom/.config/wpg/wallpapers/vapor-wave-aesthetic.gif",
+    "alpha": "100",
+
+    "special": {
+        "background": "#4b1b3d",
+        "foreground": "#fafcff",
+        "cursor": "#fafcff"
+    },
+    "colors": {
+        "color0": "#4b1b3d",
+        "color1": "#5AB2CD",
+        "color2": "#3A98B6",
+        "color3": "#588FB2",
+        "color4": "#546B94",
+        "color5": "#8F6E90",
+        "color6": "#58D1E5",
+        "color7": "#cfd1d7",
+        "color8": "#70285a",
+        "color9": "#61f1ff",
+        "color10": "#3bcdfc",
+        "color11": "#61bdf8",
+        "color12": "#5e86cf",
+        "color13": "#c97ecb",
+        "color14": "#5dffff",
+        "color15": "#fafcff"
+    }
+}

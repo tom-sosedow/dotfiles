@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tom/.config/wpg/wallpapers/gysnok3lji7b1.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a0d15",
+        "foreground": "#d4ffff",
+        "cursor": "#d4ffff"
+    },
+    "colors": {
+        "color0": "#0a0d15",
+        "color1": "#B15F50",
+        "color2": "#38936A",
+        "color3": "#BFA062",
+        "color4": "#7E67A2",
+        "color5": "#596254",
+        "color6": "#608F6D",
+        "color7": "#a0cecb",
+        "color8": "#192137",
+        "color9": "#f66f57",
+        "color10": "#3bcc8b",
+        "color11": "#ffd66c",
+        "color12": "#a074e3",
+        "color13": "#708b61",
+        "color14": "#6dc986",
+        "color15": "#d4ffff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tom/.config/wpg/wallpapers/r60i7wmc3beb1.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0D0B18",
+        "foreground": "#ffe6ef",
+        "cursor": "#ffe6ef"
+    },
+    "colors": {
+        "color0": "#0D0B18",
+        "color1": "#D2183A",
+        "color2": "#F85767",
+        "color3": "#E97E78",
+        "color4": "#9D225C",
+        "color5": "#C64CA7",
+        "color6": "#E12A52",
+        "color7": "#f2c8d0",
+        "color8": "#1f1a3a",
+        "color9": "#ff0f41",
+        "color10": "#ff5b74",
+        "color11": "#ff8f85",
+        "color12": "#d81f76",
+        "color13": "#ff50e1",
+        "color14": "#ff2560",
+        "color15": "#ffe6ef"
+    }
+}

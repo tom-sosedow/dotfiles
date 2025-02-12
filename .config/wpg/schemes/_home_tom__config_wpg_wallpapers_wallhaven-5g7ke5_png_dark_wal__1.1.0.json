@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tom/.config/wpg/wallpapers/wallhaven-5g7ke5.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1b0d07",
+        "foreground": "#ffffec",
+        "cursor": "#ffffec"
+    },
+    "colors": {
+        "color0": "#1b0d07",
+        "color1": "#AD8C71",
+        "color2": "#D0B395",
+        "color3": "#D6A56A",
+        "color4": "#7A7B87",
+        "color5": "#A0918C",
+        "color6": "#877C84",
+        "color7": "#e9ddca",
+        "color8": "#431f10",
+        "color9": "#f3b480",
+        "color10": "#ffe9aa",
+        "color11": "#ffd874",
+        "color12": "#8d91c0",
+        "color13": "#e3b2a2",
+        "color14": "#c090b3",
+        "color15": "#ffffec"
+    }
+}

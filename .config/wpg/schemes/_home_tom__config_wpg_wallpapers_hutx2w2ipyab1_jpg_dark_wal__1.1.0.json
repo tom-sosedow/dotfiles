@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tom/.config/wpg/wallpapers/hutx2w2ipyab1.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0B141E",
+        "foreground": "#ffbbff",
+        "cursor": "#ffbbff"
+    },
+    "colors": {
+        "color0": "#0B141E",
+        "color1": "#92227B",
+        "color2": "#342965",
+        "color3": "#552562",
+        "color4": "#4D2972",
+        "color5": "#78458D",
+        "color6": "#6D2A89",
+        "color7": "#c38ac1",
+        "color8": "#172c43",
+        "color9": "#c920a6",
+        "color10": "#3d2c8c",
+        "color11": "#732788",
+        "color12": "#632b9e",
+        "color13": "#a14cc4",
+        "color14": "#922abd",
+        "color15": "#ffbbff"
+    }
+}
