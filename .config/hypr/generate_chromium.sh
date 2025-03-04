@@ -1,6 +1,7 @@
 #!/bin/bash
 
-source ~/.cache/wal/colors.sh
+#source ~/.cache/wal/colors.sh
+source ~/.config/matugen/output/bash-colors.sh
 
 dir="$(dirname "${BASH_SOURCE[0]}")"
 dye_dir="$dir/dyetide"

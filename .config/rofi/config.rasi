@@ -1,5 +1,5 @@
 configuration{
-    modi: "drun,run,window";
+    modi: "drun,run,emoji";
     icon-theme: "Oranchelo";
     show-icons: true;
     terminal: "kitty";
@@ -11,31 +11,9 @@ configuration{
     display-run: "   Run ";
     display-window: " 﩯  Window";
     display-Network: " 󰤨  Network";
+    display-emoji: " :) ";
     sidebar-mode: true;
 }
 
-@import "~/.cache/wal/colors-rofi-dark"
-
-window {
-    border-radius:  10;
-    width:          600;
-}
-
-element {
-    border-radius:  4;
-}
-
-textbox {
-    border-radius:  4;
-}
-
-entry {
-    border-radius:  4;
-}
-
-mode-switcher {
-    margin: 10px 0px 0px 0px;
-    border-radius:  4;
-}
-
-
+// @theme "~/.cache/wal/colors-rofi-dark"
+@theme "~/.config/rofi/colors.rasi"
