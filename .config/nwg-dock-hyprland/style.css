@@ -1,9 +1,9 @@
 window {
-  	background: #161218;
+  	background: #161217;
 	border-radius: 16px;
 	border-style: solid;
 	border-width: 1px;
-	border-color: #e5b4ff;
+	border-color: #e1b8f5;
 }
 
 #box {
@@ -31,7 +31,7 @@ button {
 }
 
 button:hover {
-	background-color: #161218;
+	background-color: #161217;
 	border-radius: 4px;
 }
 

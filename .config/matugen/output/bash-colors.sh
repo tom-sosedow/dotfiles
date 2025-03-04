@@ -3,28 +3,28 @@
 wallpaper='/home/tom/Bilder/Hintergründe/wallpaper-main/wallhaven-l8q85r.jpg'
 
 # Special
-background='#161218'
-foreground='#ffffff'
-cursor='#e5b4ff'
+background='#161217'
+foreground='#e9e0e7'
+cursor='#e1b8f5'
 
 # Colors
-color0='#161218'
-color1='#f1d1ff'
-color2='#f1d1ff'
-color3='#ffd0de'
+color0='#161217'
+color1='#e1b8f5'
+color2='#d3c0d8'
+color3='#f4b7b8'
 color4='#f5d9ff'
-color5='#f5d9ff'
-color6='#ffd9e3'
-color7='#ffffff'
+color5='#efdcf5'
+color6='#ffdada'
+color7='#e9e0e7'
 
-color8='#161218'
-color9='#3f0060'
-color10='#321c3f'
-color11='#51002a'
-color12='#200034'
-color13='#1c0729'
-color14='#2b0014'
-color15='#ffffff'
+color8='#161217'
+color9='#422255'
+color10='#382c3e'
+color11='#4c2527'
+color12='#2b0b3f'
+color13='#221728'
+color14='#331113'
+color15='#e9e0e7'
 
 # FZF colors
 export FZF_DEFAULT_OPTS="
