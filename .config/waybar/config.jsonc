@@ -4,7 +4,7 @@
     "modules-right": ["tray", "pulseaudio", "network", "cpu", "memory", "battery", "custom/notification", "custom/power"],
     "layer": "top",
     "reload_style_on_change": true,
-    "margin-top": 4,
+    "margin-top": 0,
     "network": {
         "format-wifi": "{bandwidthDownBytes}  {bandwidthUpBytes} ({signalStrength}%) ",
         "format-ethernet": "{bandwidthDownBytes}  {bandwidthUpBytes} ",
@@ -18,7 +18,7 @@
           "eDP-1": [1,2,3,4,5],
           "HDMI-A-2": [6,7,8,9,0]
         },
-        "format": "{icon}",
+        "format": "{name}",
         "format-icons": {
             "active": "",
 		    "default": ""

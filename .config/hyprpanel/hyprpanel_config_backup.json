@@ -1,0 +1,282 @@
+{
+  "log_level": "LOG_LEVEL_INFO",
+  "log_subprocesses_to_journal": true,
+  "dbus": {
+    "enabled": true,
+    "connect_timeout": "20s",
+    "connect_interval": "0.200s",
+    "notifications": {
+      "enabled": true
+    },
+    "systray": {
+      "enabled": true
+    },
+    "shortcuts": {
+      "enabled": true
+    },
+    "brightness": {
+      "enabled": true,
+      "adjust_step_percent": 5,
+      "min_brightness": 1,
+      "enable_logind": true,
+      "hud_notifications": true
+    },
+    "power": {
+      "enabled": true,
+      "low_percent": 10,
+      "critical_percent": 5,
+      "low_command": "",
+      "critical_command": "",
+      "hud_notifications": true
+    }
+  },
+  "audio": {
+    "enabled": true,
+    "volume_step_percent": 5,
+    "volume_exceed_maximum": false,
+    "hud_notifications": true
+  },
+  "panels": [
+    {
+      "id": "panel0",
+      "edge": "EDGE_RIGHT",
+      "size": 64,
+      "monitor": "",
+      "modules": [
+        {
+          "pager": {
+            "icon_size": 12,
+            "active_monitor_only": false,
+            "scroll_wrap_workspaces": true,
+            "scroll_include_inactive": true,
+            "enable_workspace_names": false,
+            "pinned": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "ignore_windows": []
+          }
+        },
+        {
+          "spacer": {
+            "size": 16,
+            "expand": false
+          }
+        },
+        {
+          "taskbar": {
+            "icon_size": 48,
+            "active_workspace_only": true,
+            "active_monitor_only": true,
+            "group_tasks": true,
+            "hide_indicators": false,
+            "expand": true,
+            "max_size": 0,
+            "pinned": []
+          }
+        },
+        {
+          "spacer": {
+            "size": 16,
+            "expand": false
+          }
+        },
+        {
+          "systray": {
+            "icon_size": 22,
+            "menu_icon_size": 22,
+            "auto_hide_statuses": [
+              "STATUS_UNSPECIFIED",
+              "STATUS_PASSIVE",
+              "STATUS_ACTIVE"
+            ],
+            "auto_hide_delay": "4s",
+            "pinned": [
+              "nm-applet",
+              "chrome_status_icon_1"
+            ],
+            "modules": [
+              {
+                "power": {
+                  "icon_size": 22,
+                  "icon_symbolic": true
+                }
+              }
+            ]
+          }
+        },
+        {
+          "notifications": {
+            "icon_size": 24,
+            "notification_icon_size": 48,
+            "default_timeout": "7s",
+            "position": "POSITION_TOP_RIGHT",
+            "margin": 24,
+            "persistent": []
+          }
+        },
+        {
+          "hud": {
+            "notification_icon_size": 64,
+            "timeout": "2s",
+            "position": "POSITION_BOTTOM",
+            "margin": 256
+          }
+        },
+        {
+          "spacer": {
+            "size": 16,
+            "expand": false
+          }
+        },
+        {
+          "audio": {
+            "icon_size": 32,
+            "icon_symbolic": true,
+            "command_mixer": "pavucontrol"
+          }
+        },
+        {
+          "spacer": {
+            "size": 16,
+            "expand": false
+          }
+        },
+        {
+          "clock": {
+            "time_format": "15:04",
+            "date_format": "01-02-2006",
+            "tooltip_time_format": "15:04",
+            "tooltip_date_format": "Mon, 02 Jan 2006 CET",
+            "additional_regions": [
+              "Europe/Berlin"
+            ]
+          }
+        },
+        {
+          "spacer": {
+            "size": 16,
+            "expand": false
+          }
+        },
+        {
+          "session": {
+            "icon_size": 48,
+            "icon_symbolic": true,
+            "overlay_icon_size": 96,
+            "overlay_icon_symbolic": true,
+            "command_logout": "loginctl terminate-session $XDG_SESSION_ID",
+            "command_reboot": "systemctl reboot",
+            "command_suspend": "systemctl suspend",
+            "command_shutdown": "systemctl poweroff"
+          }
+        },
+        {
+          "spacer": {
+            "size": 16,
+            "expand": false
+          }
+        }
+      ]
+    }
+  ],
+  "bar.customModules.updates.pollingInterval": 1440000,
+  "theme.font.name": "Mononoki Nerd Font Mono",
+  "theme.font.label": "Mononoki Nerd Font Mono",
+  "theme.bar.scaling": 80,
+  "theme.bar.floating": true,
+  "theme.bar.buttons.enableBorders": false,
+  "theme.bar.location": "top",
+  "theme.bar.border.location": "none",
+  "theme.bar.margin_sides": "0.4em",
+  "theme.bar.buttons.padding_x": "0.7rem",
+  "theme.bar.outer_spacing": "0.3em",
+  "bar.workspaces.show_icons": true,
+  "bar.network.label": true,
+  "bar.network.showWifiInfo": true,
+  "theme.bar.buttons.network.enableBorder": false,
+  "bar.network.truncation_size": 3,
+  "theme.font.weight": 500,
+  "bar.layouts": {
+    "0": {
+      "left": [
+        "dashboard",
+        "workspaces",
+        "windowtitle"
+      ],
+      "middle": [
+        "clock"
+      ],
+      "right": [
+        "systray",
+        "volume",
+        "network",
+        "bluetooth",
+        "battery",
+        "media",
+        "notifications"
+      ]
+    },
+    "1": {
+      "left": [
+        "dashboard",
+        "workspaces",
+        "windowtitle"
+      ],
+      "middle": [
+        "clock"
+      ],
+      "right": [
+        "volume",
+        "media",
+        "notifications"
+      ]
+    },
+    "2": {
+      "left": [
+        "dashboard",
+        "workspaces",
+        "windowtitle"
+      ],
+      "middle": [
+        "clock"
+      ],
+      "right": [
+        "volume",
+        "media",
+        "notifications"
+      ]
+    }
+  },
+  "theme.bar.menus.monochrome": false,
+  "theme.bar.menus.opacity": 100,
+  "theme.bar.menus.border.radius": "0.7em",
+  "theme.bar.menus.card_radius": "0.4em",
+  "theme.matugen_settings.mode": "dark",
+  "theme.matugen_settings.scheme_type": "content",
+  "theme.bar.border_radius": "0.6em",
+  "menus.dashboard.shortcuts.left.shortcut1.command": "brave",
+  "menus.dashboard.shortcuts.left.shortcut1.tooltip": "Brave",
+  "menus.dashboard.shortcuts.left.shortcut1.icon": "",
+  "wallpaper.image": "/home/tom/Bilder/Hintergründe/wallpaper-main/WallStallsave-2023-12-07-17-46-20-351946.png",
+  "wallpaper.enable": false,
+  "scalingPriority": "gdk",
+  "terminal": "kitty",
+  "bar.autoHide": "never",
+  "wallpaper.pywal": false,
+  "theme.matugen": true,
+  "theme.matugen_settings.variation": "standard_2",
+  "theme.matugen_settings.contrast": 0.5,
+  "theme.bar.transparent": false,
+  "menus.clock.weather.unit": "metric",
+  "menus.clock.weather.location": "04299",
+  "theme.bar.buttons.systray.enableBorder": false,
+  "bar.customModules.storage.paths": [
+    "/"
+  ],
+  "theme.font.size": "1rem"
+}
