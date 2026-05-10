@@ -1,0 +1,82 @@
+* {
+    bg: #282828ff;
+    bg-accent: #3c3836;
+
+    fg: #ebdbb2ff;
+
+    primary: #fabd2f;
+    on-primary: #282828;
+    secondary: #b8bb26;
+    on-secondary: #282828;
+    
+    border: 0;
+    margin: 0;
+    padding: 0;
+    spacing: 0;
+}
+
+window {
+  width: 30%;
+  background-color: @bg;
+  border-radius:16px;
+  border: 2px;
+  border-color: @primary;
+  padding: 10px;
+}
+
+element{
+  padding: 8 12;
+  background-color: @bg;
+  text-color: @fg;
+  border-radius:4px;
+}
+
+element selected normal{
+  background-color: @primary;
+  text-color: @on-primary;
+  padding-left:8px;
+  padding-right:8px;
+  border-radius:4px;
+}
+
+element-text {
+  background-color: transparent;
+  text-color: inherit;
+  vertical-align: 0.5;
+}
+
+element-icon {
+  size: 26;
+  padding: 0 10 0 0;
+  background-color: transparent;
+}
+
+entry {
+  padding: 12;
+  background-color: @bg;
+  text-color: @fg;
+}
+
+inputbar {
+  children: [prompt, entry];
+  background-color: @bg;
+}
+
+listview {
+  background-color: @bg;
+  columns: 1;
+  lines: 8;
+}
+
+mainbox {
+  children: [inputbar, listview];
+  background-color: @bg;
+}
+
+prompt {
+  enabled: true;
+  padding: 12 0 0 12;
+  background-color: @bg;
+  text-color: @fg;
+  font-size:46px;
+}

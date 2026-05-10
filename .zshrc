@@ -95,8 +95,11 @@ source $ZSH/oh-my-zsh.sh
 export QT_QPA_PLATFORMTHEME=qt5ct
 path+=('/home/tom/.cargo/bin')
 path+=('/home/tom/.local/bin')
+path+=('/usr/bin/vendor_perl')
+path+=('/usr/bin/site_perl')
+path+=('/usr/bin/core_perl')
 export PATH
-
+export EDITOR=nvim
 # Set personal aliases, overriding those provided by oh-my-zsh libs,
 # plugins, and themes. Aliases can be placed here, though oh-my-zsh
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
@@ -111,6 +114,7 @@ alias neofetch=fastfetch
 alias mirror="hyprctl keyword monitor HDMI-A-2,preferred,-320x-1440,1,mirror,eDP-1; hyprctl keyword monitor HDMI-A-1,preferred,-320x-1440,1,mirror,eDP-1"
 alias unmirror="hyprctl keyword monitor HDMI-A-2,preferred,-320x-1440,1; hyprctl keyword monitor HDMI-A-2,preferred,-320x-1440,1"
 alias spf=superfile
+alias lgit=lazygit
 [ -f "/home/tom/.ghcup/env" ] && source "/home/tom/.ghcup/env" # ghcup-env
 
 lazy_load_nvm() {
@@ -134,3 +138,13 @@ nvm() {
   lazy_load_nvm
   nvm $@
 }
+
+y() {
+	local tmp="$(mktemp -t "yazi-cwd.XXXXXX")" cwd
+	yazi "$@" --cwd-file="$tmp"
+	IFS= read -r -d '' cwd < "$tmp"
+	[ -n "$cwd" ] && [ "$cwd" != "$PWD" ] && builtin cd -- "$cwd"
+	rm -f -- "$tmp"
+}
+
+export PATH=$PATH:/home/tom/.spicetify

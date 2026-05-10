@@ -16,4 +16,4 @@ configuration{
 }
 
 // @theme "~/.cache/wal/colors-rofi-dark"
-@theme "~/.config/rofi/colors.rasi"
+@theme "~/.config/rofi/gruvbox"

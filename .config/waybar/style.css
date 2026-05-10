@@ -1,14 +1,13 @@
 /*@import url("wal-colors.css");*/
 @define-color foreground #c5c6c5;
-@define-color background #101320;
-@define-color yellow #e6b450;
+@define-color background #1d2226;
+@define-color yellow #DBBC7F;
 
 * {
-    border: none;
     font-family: Font Awesome, Roboto, Arial, sans-serif;
     font-size: 12px;
     color: @foreground;
-    border-radius: 0px;
+    min-height: 0px;
 }
 
 window {
@@ -16,24 +15,24 @@ window {
 }
 window#waybar {
     background: @background;
+    
 }
 /*-----module groups----*/
 .modules-right {
 	background-color: @background;
-    margin: 0px 10px 0 0;
+    margin: 2px 10px 2px 2px;
 }
 .modules-center {
 	background-color: @background;
-    margin: 0px 0 0 0;
+    margin: 0px 0px 0px 0px;
 }
 .modules-left {
-    margin: 0px 0 0 5px;
+    margin: 3px 3px 3px 5px;
 	background-color: @background;
-    padding: 3px 3px 3px 3px;
 }
 /*-----modules indv----*/
 #workspaces button {
-    padding: 1px 5px;
+    padding: 0px 5px;
     background-color: transparent;
 }
 #workspaces button:hover {
@@ -42,10 +41,10 @@ window#waybar {
 }
 
 #workspaces button.active * {
-	background-color: @yellow;
-    color: @background;
-    border-radius: 20px;
-    margin: 0;
+	color: @yellow;
+    margin: 0px;
+    padding: 0px;
+    font-weight: bold;
 }
 
 #clock,
@@ -72,7 +71,6 @@ window#waybar {
     background-color: @yellow;
     color: @background;
     border-radius: 100px;
-    margin: 5px 5px;
     padding: 1px 1px 1px 4px;
 }
 

@@ -1,12 +1,12 @@
 {
     "modules-left": ["hyprland/workspaces"],
     "modules-center": ["clock#time", "clock#date"],
-    "modules-right": ["tray", "pulseaudio", "network", "cpu", "memory", "battery", "custom/notification", "custom/power"],
+    "modules-right": ["tray", "pulseaudio", "cpu", "memory", "battery", "custom/notification", "custom/power"],
     "layer": "top",
     "reload_style_on_change": true,
     "margin-top": 0,
     "network": {
-        "format-wifi": "{bandwidthDownBytes}  {bandwidthUpBytes} ({signalStrength}%) ",
+        "format-wifi": "{essid} ",
         "format-ethernet": "{bandwidthDownBytes}  {bandwidthUpBytes} ",
         "format-disconnected": "",
         "interval": 3,
@@ -18,10 +18,12 @@
           "eDP-1": [1,2,3,4,5],
           "HDMI-A-2": [6,7,8,9,0]
         },
-        "format": "{name}",
+        "active-only": true,
+        "format": "{icon}",
         "format-icons": {
             "active": "",
-		    "default": ""
+		    "default": "",
+		    "empty": ""
         }
     },
     "tray": {
