@@ -1,5 +1,5 @@
 configuration{
-    modi: "drun,run,emoji";
+    modi: "drun,run,emoji,VPN:/home/tom/.config/rofi/series.sh";
     icon-theme: "Oranchelo";
     show-icons: true;
     terminal: "kitty";

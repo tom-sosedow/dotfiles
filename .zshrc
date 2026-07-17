@@ -147,4 +147,8 @@ y() {
 	rm -f -- "$tmp"
 }
 
-export PATH=$PATH:/home/tom/.spicetify
+export GOPATH=/home/tom/.local/go
+export PATH=$PATH:"$GOPATH/bin":/home/tom/.spicetify
+
+# Turso
+export PATH="$PATH:/home/tom/.turso"

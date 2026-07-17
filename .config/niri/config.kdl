@@ -140,7 +140,32 @@ window-rule {
     clip-to-geometry true
 }
 
+window-rule {
+  match app-id=r"org.kde.kdeconnect.daemon" // ID of presentation pointer overlay
+  open-floating true
+  open-fullscreen false
+  default-floating-position x=0 y=0 relative-to="top-left"
 
+  // Adjust these to your monitor's resolution
+  min-width 2560
+  min-height 1440
+
+  // Optionally customize opacity of pointer
+  // opacity 1.0
+
+  tiled-state true
+
+  focus-ring {
+    off
+  }
+  border {
+    off
+  }
+  shadow {
+    off
+  }
+  draw-border-with-background false
+}
 
 window-rule {
   match app-id="^Kitty$"
@@ -158,7 +183,8 @@ layer-rule {
 
 spawn-at-startup "waypaper" "--restore"
 binds {
-    Mod+F { spawn "brave" "--ozone-platform=wayland" "--enable-features=TouchpadOverscrollHistoryNavigation"; }
+    //Mod+F { spawn "brave" "--ozone-platform=wayland" "--enable-features=TouchpadOverscrollHistoryNavigation"; }
+    Mod+F { spawn "firefox" ; }
     Mod+E { spawn "nemo"; }
     Mod+S { spawn "spotify-launcher"; }
     Mod+D { spawn "discord"; }
